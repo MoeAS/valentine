@@ -9,7 +9,7 @@
 }
 
 .text {
-    font-family: cursive;
+    font-family: Cambria,Cochin,Georgia,Times,Times New Roman,serif;
     font-size: 30px;
     color: white;
     font-weight: 500;
@@ -37,10 +37,12 @@ button {
 
 .yesButton {
     transition: 0.4s;
-    background-color: white
+    background-color: white;
+    color: black;
 }
 
 .NoButton {
+    color: black;
     transition: 0.4s;
     cursor: default;
 }
